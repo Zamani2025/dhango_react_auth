@@ -1,1 +1,1 @@
-##Django & React Authentication Project
+#Django & React Authentication Project
